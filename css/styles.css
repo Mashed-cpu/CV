@@ -1,1 +1,197 @@
+a {
+  color: #11999E;
+}
 
+body {
+  color: #40514E;
+  height: 100%;
+  background-color: #a6d6d6;
+  margin: 0;
+  text-align: center;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+h1 {
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Caveat', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  margin: 0 auto 50px auto;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+hr {
+  border-color: #bbbbbb;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: thick;
+  width: 4%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #fdfaf6;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 300px;
+  right: 950px;
+}
+
+.btn {
+  background: #0B9B85;
+  background-image: -webkit-linear-gradient(top, #0B9B85, #0CC0B1);
+  background-image: -moz-linear-gradient(top, #0B9B85, #0CC0B1);
+  background-image: -ms-linear-gradient(top, #0B9B85, #0CC0B1);
+  background-image: -o-linear-gradient(top, #0B9B85, #0CC0B1);
+  background-image: -webkit-gradient(to bottom, #0B9B85, #0CC0B1);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 17px;
+  font-weight: 100;
+  padding: 15px;
+  border: solid #0059A0 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 40px auto 50px;
+}
+
+.btn:hover {
+  border: solid #0059A0 1px;
+  background: #1EBFD0;
+  background-image: -webkit-linear-gradient(top, #1EBFD0, #1ED0C1);
+  background-image: -moz-linear-gradient(top, #1EBFD0, #1ED0C1);
+  background-image: -ms-linear-gradient(top, #1EBFD0, #1ED0C1);
+  background-image: -o-linear-gradient(top, #1EBFD0, #1ED0C1);
+  background-image: -webkit-gradient(to bottom, #1EBFD0, #1ED0C1);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.contact-me {
+  margin: 100px auto 0;
+}
+
+.copyright {
+  color: white;
+  padding: 20px 0 5px;
+  margin-bottom: 0;
+  font-size: x-small;
+}
+
+.decision {
+  margin-right: 30px;
+}
+
+.decision-img {
+  margin-left: 30px;
+  float: right;
+  width: 25%;
+}
+
+.decision-position {
+  margin-left: 220px;
+}
+
+.email {
+  color: white;
+  text-decoration: none;
+}
+
+.freepik {
+  margin: 0 auto;
+  font-weight: normal;
+}
+
+.footer-link {
+  padding: 40px 0 20px;
+}
+
+.introduction {
+  margin: auto;
+  width: 50%;
+}
+
+.links {
+  font-weight: bold;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.links:hover {
+  color: #dbe6fd;
+}
+
+.middle-container {
+  margin: auto;
+  background-color: #fdfaf6;
+}
+
+.palm {
+  height: 300px;
+  position: absolute;
+  bottom: 0;
+  right: 550px;
+}
+
+.skills {
+  margin-top: 100px;
+}
+
+.skill-row {
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
+
+.teamwork-img {
+  margin: auto 30px auto;
+  float: left;
+  width: 25%;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 100px;
+  right: 400px;
+}
+
+.top-container {
+  padding-top: 100px;
+  height: 500px;
+  background-color: #deeeea;
+  position: relative;
+}
+
+.pixabay {
+  font-size: x-small;
+  margin: 0 auto;
+}
+
+.profile-pic {
+  margin: 50px auto;
+  height: 15%;
+  width: 15%;
+}
